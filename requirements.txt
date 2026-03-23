@@ -2,3 +2,4 @@ pip install streamlit ollama pandas fpdf2
 ollama pull gemma2:2b
 ollama pull mistral-nemo
 ollama pull qwen2.5:3b
+Para ejecutar: python -m streamlit run abogado_fiscal.py
